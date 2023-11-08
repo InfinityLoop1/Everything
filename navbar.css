@@ -28,7 +28,7 @@ header li {
 header li a {  
 color: black;  
 text-decoration: none;  
-text-underline-offset: 0px;
+text-underline-offset: 1px;
 transition-duration: 0.5s;
 }  
 header li a:hover {  
