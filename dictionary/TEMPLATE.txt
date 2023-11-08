@@ -1,0 +1,41 @@
+THE FOLLOWING CODE IS A TEMPLATE FOR A DEFINITION
+ANYWHERE A WORD SURROUNDED WITH "**" IS PUT, YOU NEED TO REPLACE SOMETHING IN THERE.
+
+
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#151515">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#cccccc">
+    <title>Everything</title>
+    <link rel="stylesheet" href="../global.css">
+    <link rel="stylesheet" href="../navbar.css">
+    
+  </head>
+  <body>
+    <header>  
+      <nav>  
+        <ul>  
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../search/index.html">Search</a></li>
+          <li>**WORD_DEFINED** (definition)</li>
+        </ul>  
+      </nav>  
+    </header> 
+    <!--THE CODE BELOW CAN BE COPY AND PASTED IF THE WORD HAS MULTIPLE DEFINITIONS OR FORMS-->
+    <h1>**WORD_DEFINED**</h1>
+    <h2>Definition</h2>
+    <fig-of-spe>**FIGURE_OF_SPEECH**</fig-of-spe>
+    <p>**PLURAL_FORM**</p>
+    <br>
+    <p>**DEFINITION**</p>
+    <br>
+    <p>**SOURCES_CITATION**</p>
+    <!--THE CODE THAT CAN BE COPY AND PASTED ENDS HERE-->
+  </body>
+</html>
