@@ -4,14 +4,6 @@ body {
   font-family: sans-serif;
   text-align: left;
 }
-a{
-  text-underline-offset: 3px;
-  transition: 0.25s ease-in-out;
-  color: cyan;
-}
-a:hover{
-  text-underline-offset: 1px;
-}
 /* Style the search box */
 #pageSearch {
   width: 100%;
@@ -29,6 +21,7 @@ a:hover{
 
 /* Style the navigation links */
 #pages li a {
+  transition: 0.25s ease-in-out;
   padding: 12px;
   text-decoration: none;
   color: black;
