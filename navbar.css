@@ -22,7 +22,7 @@ header * {
 display: inline;  
 }  
 header li { 
-  color: black;
+  color: #151515;
   margin: 10px;  
 }  
 header li a {  
@@ -31,7 +31,5 @@ text-decoration: none;
 transition-duration: 0.5s;
 }  
 header li a:hover {  
-  color: black;  
-  text-shadow: 0 0 5px black,
-              0 0 10px black;
+  text-decoration: underline;
 } 
