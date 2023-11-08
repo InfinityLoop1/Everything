@@ -15,3 +15,7 @@ a:hover{
 img, video{
   text-align: right;
 }
+figofs{
+  font-style: italic;
+  color: #A9A9A9;
+}
