@@ -1,0 +1,17 @@
+body {
+  background-color: #121212;
+  color: black;
+  font-family: sans-serif;
+  text-align: left;
+}
+a{
+  text-underline-offset: 3px;
+  transition: 0.25s ease-in-out;
+  color: cyan;
+}
+a:hover{
+  text-underline-offset: 1px;
+}
+img, video{
+  text-align: right;
+}
