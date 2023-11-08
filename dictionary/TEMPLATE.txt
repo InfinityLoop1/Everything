@@ -31,7 +31,7 @@ ANYWHERE A WORD SURROUNDED WITH "**" IS PUT, YOU NEED TO REPLACE SOMETHING IN TH
     <h1>**WORD_DEFINED**</h1>
     <h2>Definition</h2>
     <fig-of-spe>**FIGURE_OF_SPEECH**</fig-of-spe>
-    <p>**PLURAL_FORM**</p>
+    <p>Plural: **PLURAL_FORM**</p>
     <br>
     <p>**DEFINITION**</p>
     <br>
