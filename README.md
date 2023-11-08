@@ -1,4 +1,5 @@
 <img align="right" height="500px" width="auto" src="GLOBE-wsil.png">
+
 # Everything
 Definitions and explanations on anything - An alternate Wikipedia
 
