@@ -1,3 +1,17 @@
+body {
+  background-color: #ddd;
+  color: black;
+  font-family: sans-serif;
+  text-align: left;
+}
+a{
+  text-underline-offset: 3px;
+  transition: 0.25s ease-in-out;
+  color: cyan;
+}
+a:hover{
+  text-underline-offset: 1px;
+}
 /* Style the search box */
 #pageSearch {
   width: 100%;
