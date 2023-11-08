@@ -6,7 +6,7 @@ background-size: cover;
 font-family: sans-serif;  
 }  
 header {  
-background-color: #151515;  
+background-color: #bbb;  
 position: fixed;  
 left: 0;  
 right: 0;  
@@ -26,14 +26,12 @@ header li {
   margin: 5px;  
 }  
 header li a {  
-color: #149CEA;  
+color: cyan;  
 text-decoration: none;  
-  text-shadow: 0 0 5px #149CEA;
-  transition-duration: 0.5s;
+transition-duration: 0.5s;
 }  
 header li a:hover {  
-  color: #67b7e6;  
-  text-shadow: 0 0 5px #149CEA,
-              0 0 10px #149CEA,
-              0 0 20px #149CEA;
+  color: cyan;  
+  text-shadow: 0 0 5px cyan,
+              0 0 10px cyan;
 } 
