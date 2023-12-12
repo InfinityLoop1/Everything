@@ -7,7 +7,6 @@ body {
 a{
   text-underline-offset: 3px;
   transition: 0.25s ease-in-out;
-  color: cyan;
 }
 a:hover{
   text-underline-offset: 1px;
