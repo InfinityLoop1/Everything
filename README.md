@@ -6,6 +6,8 @@ Definitions and explanations on anything - An alternate Wikipedia
 ![GitHub repo file count (file extension)](https://img.shields.io/github/directory-file-count/InfinityLoopGames/Everything/dictionary?label=Dictionary%20definitions&color=green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/InfinityLoopGames/Everything)
 
+![Alt](https://repobeats.axiom.co/api/embed/273b5b0f5a36f0a2dd304774cf4d17ab300dc8b2.svg "Repobeats analytics image")
+
 # Adding info
 If you want to add more information, follow these steps.
 1. Fork the repo
