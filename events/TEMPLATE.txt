@@ -1,0 +1,33 @@
+THE FOLLOWING CODE IS A TEMPLATE FOR A DEFINITION
+ANYWHERE A WORD SURROUNDED WITH "**" IS PUT, YOU NEED TO REPLACE SOMETHING IN THERE.
+
+
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#151515">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#cccccc">
+    <title>Everything</title>
+    <link rel="stylesheet" href="../global.css">
+    <link rel="stylesheet" href="../../navbar/navbar.css">
+    
+  </head>
+  <body>
+    <header>  
+      <iframe src="../../navbar/index.html" name="navbar" scrolling="no" width="100%" height="50px"></iframe> 
+    </header> 
+    <h1>**EVENT**</h1>
+    <br>
+    <!-- This code can be copied and pasted-->
+    <h2>**HEADING**</h2>
+    <p>**INFO**</p>
+    <!-- The code that can be copied and pasted ends here-->
+    <br>
+    <p>**SOURCES_CITATION**</p>
+  </body>
+</html>
